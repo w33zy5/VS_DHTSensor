@@ -1,0 +1,10 @@
+E:\Krisna\VisualStudio\2020119Quiz\MidSemesterQuiz\MidSemesterQuiz\bin\Debug\MidSemesterQuiz.exe.config
+E:\Krisna\VisualStudio\2020119Quiz\MidSemesterQuiz\MidSemesterQuiz\bin\Debug\MidSemesterQuiz.exe
+E:\Krisna\VisualStudio\2020119Quiz\MidSemesterQuiz\MidSemesterQuiz\bin\Debug\MidSemesterQuiz.pdb
+E:\Krisna\VisualStudio\2020119Quiz\MidSemesterQuiz\MidSemesterQuiz\obj\Debug\Form1.Form1.resources
+E:\Krisna\VisualStudio\2020119Quiz\MidSemesterQuiz\MidSemesterQuiz\obj\Debug\MidSemesterQuiz.Properties.Resources.resources
+E:\Krisna\VisualStudio\2020119Quiz\MidSemesterQuiz\MidSemesterQuiz\obj\Debug\MidSemesterQuiz.Resource1.resources
+E:\Krisna\VisualStudio\2020119Quiz\MidSemesterQuiz\MidSemesterQuiz\obj\Debug\MidSemesterQuiz.csproj.GenerateResource.Cache
+E:\Krisna\VisualStudio\2020119Quiz\MidSemesterQuiz\MidSemesterQuiz\obj\Debug\MidSemesterQuiz.exe
+E:\Krisna\VisualStudio\2020119Quiz\MidSemesterQuiz\MidSemesterQuiz\obj\Debug\MidSemesterQuiz.pdb
+E:\Krisna\VisualStudio\2020119Quiz\MidSemesterQuiz\MidSemesterQuiz\obj\Debug\MidSemesterQuiz.csprojResolveAssemblyReference.cache
