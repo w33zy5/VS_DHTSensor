@@ -18,3 +18,11 @@ Setting:
 Arduino Library used to run the code:
 * DHT Sensor Library
 * Adafruit Unified Sensor Library
+
+Form Feature Used for Visual Studio:
+* Chart
+* Resources
+* Button
+* Picture Box
+* Button
+* Label
